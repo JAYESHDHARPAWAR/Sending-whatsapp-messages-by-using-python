@@ -1,4 +1,4 @@
 import pywhatkit as pywht
 
-pywht.sendwhatmsg('+917709394635','Hiee Runi',16,52)
+pywht.sendwhatmsg('+910000000000','Hiee Runi',16,52)
 
